@@ -1,4 +1,4 @@
-# Desarrollo Taller 1 JDBC - Carlos Andres Del rio Trocha - WebFlux3264
+# Desarrollo Taller 1 JDBC - Sebastian Andres Montero Beltran - WebFlux3264
 
 
 ## Integrantes
